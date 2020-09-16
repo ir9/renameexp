@@ -58,6 +58,10 @@ python renameexp.py /path/to/your/feti-images/dir/
 `_backup` ディレクトリを作成しバックアップを取ります
 
 
+## Author / つくったひと
 
+* いろきゅう
+* http://ir9.jp
+* twitter:@ir9
 
-
+なんだかんだ自分で使ってます :-)
